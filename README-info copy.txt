@@ -1,4 +1,4 @@
-Lab Partner(s):  ________
+Lab Partner(s):  Shaun Jin
 
 Data Structure and Paradigm Choice (delete all but one):
   * Pure-functional binary-search tree
