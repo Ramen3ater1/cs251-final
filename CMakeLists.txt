@@ -13,5 +13,6 @@ add_executable(Dictionary
         Dictionary_examples.cpp
         AST.cpp
         ASD.cpp
-        A_simpler_tree_and_dag.cpp A_simpler_tree_and_dag.h)
+        A_simpler_tree_and_dag.cpp A_simpler_tree_and_dag.h
+        Dictionary_pure.cpp)
 
