@@ -1,4 +1,5 @@
-Lab Partner(s):  ________
+Lab Partner(s): Daisy Li/Shaun Jin
+Team members: Daisy Li, Shaun Jin
 
 Data Structure and Paradigm Choice (delete all but one):
   * Pure-functional binary-search tree
