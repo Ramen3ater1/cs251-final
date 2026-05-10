@@ -12,8 +12,7 @@ typedef Dictionary_via_std_map Dictionary_Imp;  // delete this line or change to
 typedef Dictionary_via_std_map_backup Dictionary_Imp_backup;
 
 
-#include "Dictionary_pure_via_std_map.h"
-typedef Dictionary_pure_via_std_map Dictionary_Pure;
+#include "Dictionary_pure.h"
 
 
 
